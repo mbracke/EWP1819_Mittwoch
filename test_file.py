@@ -1,2 +1,2 @@
-print('Hello World!') # ein Kommentar
+print('Hello World!') # ein Kommentar ist ein Kommentar ist ein Kommentar...
 a=5
