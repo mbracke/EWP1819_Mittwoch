@@ -1,2 +1,2 @@
 print('Hello World!') # ein Kommentar
-a=5
+a=6 #initial value
