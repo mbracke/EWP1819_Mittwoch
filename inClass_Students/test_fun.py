@@ -1,3 +1,5 @@
+import numpy as np
+
 def f_1D_scipy(x):
     f = np.sin(x) ** 3.0
     return f
